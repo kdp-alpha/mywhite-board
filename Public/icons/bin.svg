@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 32 32" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g>
+        <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient" gradientUnits="userSpaceOnUse" x1="3.715" x2="28.286" y1="2.872" y2="27.443">
+            <stop offset="0" stop-color="#fdc830"></stop>
+            <stop offset="1" stop-color="#f37335"></stop>
+        </linearGradient>
+        <path xmlns="http://www.w3.org/2000/svg" d="m25.95 9h-19.9a3.076 3.076 0 0 0 -2.32 1.06 2.98 2.98 0 0 0 -.7 2.38l2.49 15.99a3.064 3.064 0 0 0 3.02 2.57h14.92a3.064 3.064 0 0 0 3.02-2.56l2.49-16.01a2.968 2.968 0 0 0 -.7-2.37 3.076 3.076 0 0 0 -2.32-1.06zm-13.95 16a1 1 0 0 1 -2 0v-10a1 1 0 0 1 2 0zm5 0a1 1 0 0 1 -2 0v-10a1 1 0 0 1 2 0zm5 0a1 1 0 0 1 -2 0v-10a1 1 0 0 1 2 0zm8-20h-8v-1a3.009 3.009 0 0 0 -3-3h-6a3.009 3.009 0 0 0 -3 3v1h-8a1 1 0 0 0 0 2h28a1 1 0 0 0 0-2zm-10 0h-8v-1a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z" fill="url(#linear-gradient)" data-original="url(#linear-gradient)" class=""></path>
+    </g>
+</svg>
